@@ -1,0 +1,9 @@
+---
+title: Homework 3
+subtitle: Advanced Statistical Computing
+date: Spring 2023
+author: ADD AUTHOR HERE
+output: pdf_document
+fontsize: 11pt
+geometry: margin=1in
+---
